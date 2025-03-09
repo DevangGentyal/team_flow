@@ -27,22 +27,34 @@
 │ꀀ README.md       # You're here!
 │ꀀ package.json    # Project dependencies
 │ꀀ next.config.js  # Next.js configuration
+│ꀀ .env            # Environment variables (not committed)
 ```
 
 ---
 
-
 ## 🚀 Getting Started  
 ### 1⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/Team-Flow.git
+git clone https://github.com/DevangGentyal/Team-Flow.git
 cd Team-Flow
 ```
 ### 2⃣ Install Dependencies  
 ```bash
 npm install
 ```
-### 3⃣ Run the Development Server  
+### 3⃣ Configure Environment Variables  
+Create a `.env` file in the root directory and add the following:
+```env
+DATABASE_URL="mysql://USERNAME:PASSWORD@localhost:3306/team_flow"
+```
+Replace:
+- `USER` with your MySQL username
+- `PASSWORD` with your MySQL password
+- `HOST` with your database host (e.g., `localhost` or a remote server)
+- `PORT` with the MySQL port (default is `3306`)
+- `DATABASE` with your database name
+
+### 4⃣ Run the Development Server  
 ```bash
 npm run dev
 ```
@@ -65,10 +77,10 @@ Contributions are welcome! Fork the repo and submit a PR. 😊
 ## 🛠 Tech Stack  
 - **Next.js** - Frontend framework  
 - **Tailwind CSS** - Styling  
-- **Firebase / Supabase** - Authentication & Database  
-- **Framer Motion** - Animations  
+- **Prisma** - Authentication & Database  
+- **MySQL** - Database  
 
 ---
 
-💙 **Built with passion by Team Flow Developers** 🚀  
+💙 **Built with passion by Team Flow Developers** 🚀
 
