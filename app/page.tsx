@@ -2,7 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import { ArrowRight, CheckCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
+// New Line
 export default function Home() {
   return (
     <div className="flex min-h-screen flex-col bg-gray-100">
